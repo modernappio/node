@@ -1,5 +1,5 @@
 FROM node:7
-#FROM node:8.4-alpine
+# FROM node:8.4-alpine
 #FROM nodesource/node
 #FROM nodesource/nsolid
 RUN apk add --no-cache --virtual .gyp python make g++
