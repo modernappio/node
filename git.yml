@@ -1,0 +1,9 @@
+GIT_URL=ssh://git@git.altimetrik.local/labs/json.git
+GIT_BRANCH=origin/master
+GIT_COMMIT=93a91dbd7a6add56996ec005cf31c61d2a66dddc
+GIT_PREVIOUS_SUCCESSFUL_COMMIT=93a91dbd7a6add56996ec005cf31c61d2a66dddc
+JENKINS_BUILD_URL=https://pipeline.altimetrik.com/job/labs.altimetrik.com/job/json/53/
+BUILD_USER=David_Ell
+BUILD_USER_EMAIL=Dell@altimetrik.com
+GIT_COMMITTER_EMAIL=Dell@altimetrik.comm
+JIRA_ISSUE_KEY=
