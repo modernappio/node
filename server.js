@@ -14,7 +14,7 @@ if (process.env.NODE_ENV === 'production') {
 
 app.get('/test', (req, res, next) => {
   res.json({
-    data: [{ key: 'Project', value: 'CVS Modern test' },
+    data: [{ key: 'Project', value: 'Daimler Modern test' },
     { key: 'PoC', value: 'json Web Service' }]
   })
 })
